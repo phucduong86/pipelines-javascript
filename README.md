@@ -1,4 +1,4 @@
-https://dev.azure.com/PhucDuong0392/Pipe1/_apis/build/status/phucduong86.pipelines-javascript?branchName=master
+[![Build Status](https://dev.azure.com/PhucDuong0392/Pipe1/_apis/build/status/phucduong86.pipelines-javascript?branchName=master)](https://dev.azure.com/PhucDuong0392/Pipe1/_build/latest?definitionId=1&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
